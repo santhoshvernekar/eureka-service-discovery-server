@@ -1,4 +1,4 @@
-# Spring could service discovery : eureka-discovery-server
+# Spring clodd service discovery : eureka-discovery-server
 
 To Build project:
 run mvn clean install
